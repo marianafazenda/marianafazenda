@@ -74,49 +74,38 @@ Rather than just writing code, I approach software engineering from a **product 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>01. Project Name Placeholder</h4>
-      <p><em>Short description of the product and the specific problem it solves.</em></p>
-      <p><strong>Key Focus:</strong> High-performance architecture and seamless user journey.</p>
+      <h4>🏢 Business Management App</h4>
+      <p><em>Full-stack mobile development for FAURGS.</em></p>
+      <p>Worked on both front-end and back-end, ensuring seamless integration across all layers and end-to-end functionality.</p>
       <p>
-        <code>TypeScript</code> &nbsp; <code>React</code> &nbsp; <code>Node.js</code>
+        <code>Flutter</code> &nbsp; <code>Node.js</code> &nbsp; <code>REST APIs</code> &nbsp; <code>SQL</code>
       </p>
       <p>
-        <a href="https://mariana-portfolio-flame.vercel.app/">Demo ↗</a> &nbsp;|&nbsp; <a href="https://github.com/YOUR_USERNAME/YOUR_PROJECT">Repository ↗</a>
+        <a href="#">Repository ↗</a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4>02. Project Name Placeholder</h4>
-      <p><em>Short description of the product and the specific problem it solves.</em></p>
-      <p><strong>Key Focus:</strong> Intelligent data processing and RESTful API integration.</p>
+      <h4>🗳️ Voting App</h4>
+      <p><em>Front-end & UI/UX focus.</em></p>
+      <p>Responsible for front-end development and UI/UX design using React Native, with a core focus on delivering an intuitive user experience.</p>
       <p>
-        <code>Python</code> &nbsp; <code>AI SDK</code> &nbsp; <code>TailwindCSS</code>
+        <code>React Native</code> &nbsp; <code>UI/UX</code> &nbsp; <code>JavaScript</code>
       </p>
       <p>
-        <a href="https://mariana-portfolio-flame.vercel.app/">Demo ↗</a> &nbsp;|&nbsp; <a href="https://github.com/YOUR_USERNAME/YOUR_PROJECT">Repository ↗</a>
+        <a href="https://app-votacao.app">Demo ↗</a>
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>03. Project Name Placeholder</h4>
-      <p><em>Short description of the product and the specific problem it solves.</em></p>
-      <p><strong>Key Focus:</strong> Clean modular architecture and optimal database performance.</p>
+      <h4>🎮 2D Game — Senior Project (TCC)</h4>
+      <p><em>Academic Capstone Project.</em></p>
+      <p>A 2D game developed in Unity as my final graduation project, focusing on gameplay mechanics and the implementation of AI concepts for element behavior.</p>
       <p>
-        <code>PostgreSQL</code> &nbsp; <code>Prisma</code> &nbsp; <code>Next.js</code>
+        <code>Unity</code> &nbsp; <code>C#</code> &nbsp; <code>Game Design</code> &nbsp; <code>AI</code>
       </p>
       <p>
-        <a href="https://mariana-portfolio-flame.vercel.app/">Demo ↗</a> &nbsp;|&nbsp; <a href="https://github.com/YOUR_USERNAME/YOUR_PROJECT">Repository ↗</a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>04. Project Name Placeholder</h4>
-      <p><em>Short description of the product and the specific problem it solves.</em></p>
-      <p><strong>Key Focus:</strong> Scalable backend integration and modern client interface.</p>
-      <p>
-        <code>TypeScript</code> &nbsp; <code>REST APIs</code> &nbsp; <code>MongoDB</code>
-      </p>
-      <p>
-        <a href="https://mariana-portfolio-flame.vercel.app/">Demo ↗</a> &nbsp;|&nbsp; <a href="https://github.com/YOUR_USERNAME/YOUR_PROJECT">Repository ↗</a>
+        <a href="https://jogo-2d-tcc.app">Demo ↗</a>
       </p>
     </td>
   </tr>
