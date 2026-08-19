@@ -16,9 +16,9 @@
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-mariana--portfolio--flame.vercel.app-101827?style=for-the-badge&logo=framer&logoColor=white)](https://mariana-portfolio-flame.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-Mariana-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@domain.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Mariana-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marianafazenda)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariana-fazenda/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](brazil:mariana.fazendasantos@gmail.com)
 
 </div>
 
