@@ -28,7 +28,7 @@
 
 I build full-stack digital products with a heavy focus on user experience, scalable system architecture, and artificial intelligence integration. 
 
-Rather than just writing code, I approach software engineering from a **product mindset** — bridging the gap between functional UI/UX design, resilient backend APIs, robust database schemas, and intelligent automation.
+Rather than just writing code, I approach software engineering from a **product mindset** bridging the gap between functional UI/UX design, resilient backend APIs, robust database schemas, and intelligent automation.
 
 * **Frontend & UX:** Crafting clean, responsive, and intuitive interfaces.
 * **Backend & Systems:** Designing scalable APIs, database architecture, and secure integrations.
