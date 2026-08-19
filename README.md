@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1e1b4b&height=180&section=header&text=Mariana&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="Mariana Header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1e1b4b&height=180&section=header&text=Mariana&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="Mariana Fazenda Header"/>
 
 <br/>
 
